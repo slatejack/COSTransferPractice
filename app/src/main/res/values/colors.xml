@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#10c0fa</color>
+    <color name="colorPrimaryDark">#10c0fa</color>
+    <color name="colorAccent">#fff</color>
+    <color name="color_minefragment_top">#10c0fa</color>
+</resources>
