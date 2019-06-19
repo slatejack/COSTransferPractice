@@ -19,7 +19,7 @@ public class Code {
      *                数字 6 和 字母 b
      *                数字 9 和 字母 q
      *                字母 c C 和 G
-     *                字母 t （经常和随机线混在一起看不清）
+     *                字母 t （经常和随机线混在一起看不清！）
      */
     private static final char[] CHARS = {
             '2', '3', '4', '5',  '7', '8',
